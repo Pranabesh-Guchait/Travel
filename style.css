@@ -112,8 +112,8 @@
     letter-spacing: 6px;
 }
 .social{
-    position: absolute;
-    top: 45%;
+    position: fixed;
+    top: 86%;
     z-index: 10;
     display: flex;
     justify-content: center;
